@@ -206,5 +206,26 @@ function c3300btn(){
     score = score + 100;
     $('#1Score').html(score);
  }
+    
+ function team1minus(){
+     var score = $('#1Score').text();
+    score = Number(score);
+    score = score - 100;
+    $('#1Score').html(score);
+ }
   
+function team2plus(){
+     var score = $('#2Score').text();
+    score = Number(score);
+    score = score + 100;
+    $('#2Score').html(score);
+}
+    
+function team2minus(){
+     var score = $('#2Score').text();
+    score = Number(score);
+    score = score - 100;
+    $('#2Score').html(score);
+}
+    
 })();
