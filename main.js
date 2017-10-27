@@ -202,6 +202,7 @@ function c3300btn(){
  
  function team1plus(){
     var score = $('#1Score').text();
+    score = Number(score);
     score = score + 100;
     $('#1Score').html(score);
  }
