@@ -199,6 +199,11 @@ function c3300btn(){
         $('#col-3_300awnser').css('display', 'none');
     }
 }
-    
+ 
+ function team1plus(){
+    var score = $('#1Score).text();
+    score = score + 100;
+    $('#1Score').text(score);
+ }
   
 })();
