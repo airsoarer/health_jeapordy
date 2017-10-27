@@ -61,6 +61,7 @@ function c1100btn(){
     
     function closeData(){
         $('#col-1_100awnser').css('display', 'none');
+        $('#col-1_100btn').css('background-color', 'blue');
     }
 }
 
@@ -78,6 +79,7 @@ function c1200btn(){
     
     function closeData(){
         $('#col-1_200awnser').css('display', 'none');
+        $('#col-1_200btn').css('background-color', 'blue');
     }
 }
 
@@ -95,6 +97,7 @@ function c1300btn(){
     
     function closeData(){
         $('#col-1_300awnser').css('display', 'none');
+        $('#col-1_300btn').css('background-color', 'blue');
     }
 }
 
@@ -112,6 +115,7 @@ function c2100btn(){
     
     function closeData(){
         $('#col-2_100awnser').css('display', 'none');
+        $('#col-2_100btn').css('background-color', 'blue');
     }
 }
 
@@ -129,6 +133,7 @@ function c2200btn(){
     
     function closeData(){
         $('#col-2_200awnser').css('display', 'none');
+        $('#col-2_200btn').css('background-color', 'blue');
     }
 }
 
@@ -146,6 +151,7 @@ function c2300btn(){
     
     function closeData(){
         $('#col-2_300awnser').css('display', 'none');
+        $('#col-2_300btn').css('background-color', 'blue');
     }
 }
 
@@ -163,6 +169,7 @@ function c3100btn(){
     
     function closeData(){
         $('#col-3_100awnser').css('display', 'none');
+        $('#col-3_100btn').css('background-color', 'blue');
     }
 }
 
@@ -180,6 +187,7 @@ function c3200btn(){
     
     function closeData(){
         $('#col-3_200awnser').css('display', 'none');
+        $('#col-3_200btn').css('background-color', 'blue');
     }
 }
 
@@ -197,6 +205,7 @@ function c3300btn(){
     
     function closeData(){
         $('#col-3_300awnser').css('display', 'none');
+        $('#col-3_300btn').css('background-color', 'blue');
     }
 }
  
