@@ -11,6 +11,10 @@ function init(){
     $('#col-3_100btn').on('click', c3100btn);
     $('#col-3_200btn').on('click', c3200btn);
     $('#col-3_300btn').on('click', c3300btn);
+    $('#team1plus').on('click', team1plus);
+    $('#team1minus').on('click', team1minus);
+    $('#team2plus').on('click', team2plus);
+    $('#team2minus').on('click', team2minus);
 }
 //MODAL FUNCTION
 function addClass(modalId, btnId){
@@ -195,4 +199,6 @@ function c3300btn(){
         $('#col-3_300awnser').css('display', 'none');
     }
 }
+    
+  
 })();
