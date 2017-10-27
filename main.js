@@ -201,7 +201,7 @@ function c3300btn(){
 }
  
  function team1plus(){
-    var score = $('#1Score).text();
+    var score = $('#1Score').text();
     score = score + 100;
     $('#1Score').text(score);
  }
